@@ -1,0 +1,9 @@
+msgid ""
+msgstr ""
+
+"X-Crowdin-File: 40_poedit.pot\n"
+
+msgid "Hide this notification message"
+msgstr ""
+
+
