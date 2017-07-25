@@ -4,4 +4,4 @@ files:
     languages_mapping:
       two_letters_code:
         zh-CN: '123'
-    update_option: update_as_unapproved
+    update_option : update_without_changes
